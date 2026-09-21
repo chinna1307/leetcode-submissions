@@ -59,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chinna1307/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/chinna1307/leetcode-submissions/tree/master/0371-sum-of-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/chinna1307/leetcode-submissions/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
