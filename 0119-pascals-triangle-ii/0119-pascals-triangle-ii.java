@@ -1,20 +1,19 @@
+import java.util.ArrayList;
+import java.util.List;
+
 class Solution {
     public List<Integer> getRow(int rowIndex) {
-        List<List<Integer>> result = new ArrayList<>();
-        for(int i = 0;i <= rowIndex; i++) {
-            List<Integer> row = new ArrayList<>();
-            for(int j = 0;j <= i;j++) {
-                if(j == 0 || j == i) {
-                    row.add(1);
-                } else {
-                    int leftAbove = result.get(i - 1).get(j - 1);
-                    int rightAbove = result.get(i - 1).get(j);
+        List<Integer> row = new ArrayList<>();
 
-                    row.add(leftAbove + rightAbove);
-                }
-            }
-            result.add(row);
+        for (int i = 0; i <= rowIndex; i++) {
+            row.add(1);
         }
-        return result.get(rowIndex);
+        for (int i = 1; i < rowIndex; i++) {
+            for (int j = i; j > 0; j--) {
+                row.set(j, row.get(j) + row.get(j - 1));
+            }
+        }
+        
+        return row;
     }
 }
