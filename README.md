@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/chinna1307/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/chinna1307/leetcode-submissions/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/chinna1307/leetcode-submissions/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/chinna1307/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0119-pascals-triangle-ii](https://github.com/chinna1307/leetcode-submissions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chinna1307/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/chinna1307/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/chinna1307/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/chinna1307/leetcode-submissions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/chinna1307/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chinna1307/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -93,15 +95,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/chinna1307/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0119-pascals-triangle-ii](https://github.com/chinna1307/leetcode-submissions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chinna1307/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chinna1307/leetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/chinna1307/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chinna1307/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chinna1307/leetcode-submissions/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/chinna1307/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
