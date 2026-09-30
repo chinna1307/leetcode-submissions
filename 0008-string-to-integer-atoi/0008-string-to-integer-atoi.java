@@ -1,30 +1,31 @@
 class Solution {
     public int myAtoi(String s) {
+
+        s = s.trim();
         int i = 0;
-        while(i < s.length() && s.charAt(i) == ' '){
-            i++;
-        }
         int sign = 1;
-        if(i < s.length() && s.charAt(i) == '-') {
+        long res = 0;
+        if (i < s.length() && s.charAt(i) == '-') {
             sign = -1;
             i++;
-        } else if(i < s.length() && s.charAt(i) == '+'){
+        } else if (i < s.length() && s.charAt(i) == '+') {
             i++;
         }
-        int result = 0;
-        while(i < s.length() && Character.isDigit(s.charAt(i))){
-            int digit = s.charAt(i) - '0';
-            int limit = (sign == 1) ? 7 : 8;
-            if((result > Integer.MAX_VALUE/10) || (result == Integer.MAX_VALUE/10 && digit > 7)){
-                if(sign == 1) {
-                    return Integer.MAX_VALUE;
-                } else {
-                    return Integer.MIN_VALUE;
-                }
+        while (i < s.length()) {
+            char ch = s.charAt(i);
+            if (ch < '0' || ch > '9') {
+                break;
             }
-            result = result * 10 + digit;
+            res = res * 10 + (ch - '0');
+            long value = res * sign;
+            if (value > Integer.MAX_VALUE) {
+                return Integer.MAX_VALUE;
+            }
+            if (value < Integer.MIN_VALUE) {
+                return Integer.MIN_VALUE;
+            }
             i++;
         }
-        return result * sign;
+        return (int) (res * sign);
     }
 }
