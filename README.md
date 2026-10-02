@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/chinna1307/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/chinna1307/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/chinna1307/leetcode-submissions/tree/master/0739-daily-temperatures) |
+| [0896-monotonic-array](https://github.com/chinna1307/leetcode-submissions/tree/master/0896-monotonic-array) |
 ## Hash Table
 |  |
 | ------- |
