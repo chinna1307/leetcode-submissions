@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/chinna1307/leetcode-submissions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/chinna1307/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chinna1307/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/chinna1307/leetcode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/chinna1307/leetcode-submissions/tree/master/0203-remove-linked-list-elements) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/chinna1307/leetcode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
