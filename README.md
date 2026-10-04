@@ -68,4 +68,12 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/chinna1307/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
+## Array
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/chinna1307/leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/chinna1307/leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
