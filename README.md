@@ -52,6 +52,7 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/chinna1307/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/chinna1307/leetcode-submissions/tree/master/0856-score-of-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +62,7 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/chinna1307/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/chinna1307/leetcode-submissions/tree/master/0856-score-of-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -69,6 +71,7 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/chinna1307/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/chinna1307/leetcode-submissions/tree/master/0856-score-of-parentheses) |
 ## Array
 |  |
 | ------- |
