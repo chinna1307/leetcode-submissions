@@ -73,6 +73,7 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/chinna1307/leetcode-submissions/tree/master/0877-stone-game) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/chinna1307/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chinna1307/leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
@@ -91,4 +92,12 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/chinna1307/leetcode-submissions/tree/master/0877-stone-game) |
+## Hash Table
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/chinna1307/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/chinna1307/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
