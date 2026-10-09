@@ -54,6 +54,7 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 | [0678-valid-parenthesis-string](https://github.com/chinna1307/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/chinna1307/leetcode-submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chinna1307/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chinna1307/leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,17 +66,20 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 | [0678-valid-parenthesis-string](https://github.com/chinna1307/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/chinna1307/leetcode-submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chinna1307/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chinna1307/leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Greedy
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/chinna1307/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chinna1307/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chinna1307/leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/chinna1307/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/chinna1307/leetcode-submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chinna1307/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chinna1307/leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Array
 |  |
 | ------- |
