@@ -73,6 +73,7 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 | [0678-valid-parenthesis-string](https://github.com/chinna1307/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chinna1307/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chinna1307/leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/chinna1307/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -85,6 +86,7 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 | ------- |
 | [0877-stone-game](https://github.com/chinna1307/leetcode-submissions/tree/master/0877-stone-game) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/chinna1307/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/chinna1307/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chinna1307/leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
@@ -111,4 +113,16 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/chinna1307/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/chinna1307/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Sorting
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/chinna1307/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/chinna1307/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
