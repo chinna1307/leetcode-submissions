@@ -75,6 +75,7 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chinna1307/leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chinna1307/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chinna1307/leetcode-submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/chinna1307/leetcode-submissions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -95,6 +96,7 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/chinna1307/leetcode-submissions/tree/master/0877-stone-game) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/chinna1307/leetcode-submissions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chinna1307/leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Minimax
 |  |
