@@ -89,6 +89,7 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 | [0877-stone-game](https://github.com/chinna1307/leetcode-submissions/tree/master/0877-stone-game) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/chinna1307/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chinna1307/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2465-number-of-distinct-averages](https://github.com/chinna1307/leetcode-submissions/tree/master/2465-number-of-distinct-averages) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chinna1307/leetcode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chinna1307/leetcode-submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chinna1307/leetcode-submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -115,6 +116,7 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/chinna1307/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2465-number-of-distinct-averages](https://github.com/chinna1307/leetcode-submissions/tree/master/2465-number-of-distinct-averages) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chinna1307/leetcode-submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chinna1307/leetcode-submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Counting
@@ -129,6 +131,7 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chinna1307/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2465-number-of-distinct-averages](https://github.com/chinna1307/leetcode-submissions/tree/master/2465-number-of-distinct-averages) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -149,4 +152,8 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chinna1307/leetcode-submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Two Pointers
+|  |
+| ------- |
+| [2465-number-of-distinct-averages](https://github.com/chinna1307/leetcode-submissions/tree/master/2465-number-of-distinct-averages) |
 <!---LeetCode Topics End-->
