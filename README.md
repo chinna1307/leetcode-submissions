@@ -60,6 +60,7 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/chinna1307/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/chinna1307/leetcode-submissions/tree/master/0877-stone-game) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chinna1307/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Stack
 |  |
 | ------- |
@@ -88,6 +89,7 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 | ------- |
 | [0877-stone-game](https://github.com/chinna1307/leetcode-submissions/tree/master/0877-stone-game) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/chinna1307/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chinna1307/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chinna1307/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2465-number-of-distinct-averages](https://github.com/chinna1307/leetcode-submissions/tree/master/2465-number-of-distinct-averages) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chinna1307/leetcode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -99,6 +101,7 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/chinna1307/leetcode-submissions/tree/master/0877-stone-game) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chinna1307/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/chinna1307/leetcode-submissions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chinna1307/leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Minimax
@@ -160,4 +163,36 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 |  |
 | ------- |
 | [2465-number-of-distinct-averages](https://github.com/chinna1307/leetcode-submissions/tree/master/2465-number-of-distinct-averages) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chinna1307/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chinna1307/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chinna1307/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chinna1307/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chinna1307/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chinna1307/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chinna1307/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chinna1307/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
