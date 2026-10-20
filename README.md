@@ -87,6 +87,7 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/chinna1307/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/chinna1307/leetcode-submissions/tree/master/0877-stone-game) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/chinna1307/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chinna1307/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -101,6 +102,7 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/chinna1307/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/chinna1307/leetcode-submissions/tree/master/0877-stone-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chinna1307/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/chinna1307/leetcode-submissions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -165,6 +167,7 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/chinna1307/leetcode-submissions/tree/master/0189-rotate-array) |
 | [2465-number-of-distinct-averages](https://github.com/chinna1307/leetcode-submissions/tree/master/2465-number-of-distinct-averages) |
 ## Divide and Conquer
 |  |
