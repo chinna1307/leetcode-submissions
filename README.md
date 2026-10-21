@@ -93,6 +93,7 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 | [1394-find-lucky-integer-in-an-array](https://github.com/chinna1307/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chinna1307/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chinna1307/leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2295-replace-elements-in-an-array](https://github.com/chinna1307/leetcode-submissions/tree/master/2295-replace-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chinna1307/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2465-number-of-distinct-averages](https://github.com/chinna1307/leetcode-submissions/tree/master/2465-number-of-distinct-averages) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chinna1307/leetcode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -126,6 +127,7 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/chinna1307/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2295-replace-elements-in-an-array](https://github.com/chinna1307/leetcode-submissions/tree/master/2295-replace-elements-in-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/chinna1307/leetcode-submissions/tree/master/2465-number-of-distinct-averages) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chinna1307/leetcode-submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chinna1307/leetcode-submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -206,4 +208,8 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chinna1307/leetcode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Simulation
+|  |
+| ------- |
+| [2295-replace-elements-in-an-array](https://github.com/chinna1307/leetcode-submissions/tree/master/2295-replace-elements-in-an-array) |
 <!---LeetCode Topics End-->
