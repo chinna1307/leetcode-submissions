@@ -51,6 +51,7 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/chinna1307/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/chinna1307/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/chinna1307/leetcode-submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chinna1307/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -126,6 +127,7 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/chinna1307/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/chinna1307/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2295-replace-elements-in-an-array](https://github.com/chinna1307/leetcode-submissions/tree/master/2295-replace-elements-in-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/chinna1307/leetcode-submissions/tree/master/2465-number-of-distinct-averages) |
@@ -144,6 +146,7 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/chinna1307/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chinna1307/leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chinna1307/leetcode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2465-number-of-distinct-averages](https://github.com/chinna1307/leetcode-submissions/tree/master/2465-number-of-distinct-averages) |
