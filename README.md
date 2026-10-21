@@ -55,6 +55,7 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 | [0856-score-of-parentheses](https://github.com/chinna1307/leetcode-submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chinna1307/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chinna1307/leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/chinna1307/leetcode-submissions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
