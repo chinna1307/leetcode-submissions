@@ -103,6 +103,7 @@ The repository will evolve continuously as I learn new concepts, solve new probl
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/chinna1307/leetcode-submissions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chinna1307/leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/chinna1307/leetcode-submissions/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/chinna1307/leetcode-submissions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Math
 |  |
 | ------- |
